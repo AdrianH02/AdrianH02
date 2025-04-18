@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @AdrianH02
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I’m @AdrianH02  
+**Data Engineer | Cloud Data Solutions Architect | ETL & Pipeline Specialist**
 
-<!---
-AdrianH02/AdrianH02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Areas of Interest**  
+- Data Warehousing & ETL Pipelines  
+- Big Data Technologies: Spark, Hadoop  
+- Cloud Platforms: AWS, Azure, GCP  
+- Data Modeling & Architecture  
+- Stream Processing (Kafka, Flink)  
+- Python, SQL, and Shell Scripting  
+
+**Currently Learning**  
+- Apache Beam and Real-time Analytics  
+- DataOps and Pipeline Orchestration (Airflow, Prefect)  
+- Lakehouse Architecture (Delta Lake, Iceberg)  
+- dbt and Modern Data Stack Tools  
+
+**Looking to Collaborate On**  
+- Scalable data pipelines  
+- Cloud-native data infrastructure  
+- Open-source data engineering tools  
+
+**Contact**  
+- Email: adrian.h.cloud@gmail.com
